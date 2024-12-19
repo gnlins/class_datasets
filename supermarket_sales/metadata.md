@@ -1,8 +1,11 @@
-About Dataset
-Context
+# About Dataset
+##Origin:
+https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales 
+
+## Context
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. Predictive data analytics methods are easy to apply with this dataset.
 
-Attribute information
+## Attribute information
 - Invoice id: Computer generated sales slip invoice identification number
 - Branch: Branch of supercenter (3 branches are available identified by A, B and C).
 - City: Location of supercenters
@@ -21,8 +24,8 @@ Attribute information
 - Gross income: Gross income
 - Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
 
-Acknowledgements
+## Acknowledgements
 Thanks to all who take time and energy to perform Kernels with this dataset and reviewers.
 
-Purpose
+## Purpose
 This dataset can be used for predictive data analytics purpose.
